@@ -6,3 +6,12 @@ function ispisi(niz){
 };
 
 ispisi(pozdravi);
+
+//Zadatak 3
+let number = 8;
+
+if(number > 0){
+    console.log("Broj "+number+" je veci od 0");
+}else {
+    console.log("Broj "+number+" je jednak ili manji 0");
+}
